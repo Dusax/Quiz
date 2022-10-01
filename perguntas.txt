@@ -1,0 +1,90 @@
+Qual a capital do Brasil? FACIL
+A- Salvador 
+B- Rio de Janeiro 
+C- Brasilia 
+C
+Qual a capital dos Estados Unidos? FACIL
+A- Filadelfia 
+B- Washington, D.C.
+C- Palmas 
+B
+Qual a capital de Pernambuco? FACIL
+A-Olinda 
+B-Recife 
+C-Aracaju 
+B
+Qual a capital do Rio de Janeiro? FACIL
+A - Belo Horizonte
+B - Sao Paulo
+C - Rio de Janeiro
+C
+Qual a capital da Argentina? FACIL
+A - Montevideu
+B - Buenos Aires
+C - Madrid
+B
+Qual a capital do Tocantins? FACIL
+A - Palmas
+B - São Luis
+C - Sergipe
+A
+Qual a capital da Australia? DIFICIL
+A - Sydney
+B - Camberra
+C - Melbourne
+B
+Qual a capital da Turquia? DIFICIL
+A - Istambul
+B - Esmirna
+C - Ancara
+C
+Qual a capital de Luxemburgo? DIFICIL
+A - Bruxelas
+B - Dudelange
+C - Luxemburgo
+C
+Qual a capital da India? DIFICIL
+A - Jaipur
+B - Nova Delhi
+C - Dubai
+B
+Qual a capital da Nova Zelandia? DIFICIL
+A - Wellington
+B - Auckland
+C - Queenstown
+A
+Qual a capital do Libano? DIFICIL
+A - Beirute
+B - Balbeque
+C - Harissa
+A
+Qual a capital do Egito? MEDIO
+A - Cairo 
+B - Luxor
+C - Alexandria
+A
+Qual a capital da Colombia? MEDIO
+A - Bogota
+B - Quito
+C - La Paz
+A
+Qual a capital da Suica? MEDIO
+A - Basel
+B - Bruxelas
+C - Berna
+C
+Qual a capital da Finlandia? MEDIO
+A - Oslo
+B - Copenhage
+C - Helsinque
+C
+Qual a capital da Italia? MEDIO
+A - Praga
+B - Roma
+C - Veneza
+B
+Qual a capital da Irlanda? MEDIO
+A - Budapeste
+B - Dublin
+C - Belfast
+B
